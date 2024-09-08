@@ -1,0 +1,45 @@
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+}
+.carousel-item img {
+    height: auto;
+    object-fit: cover;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(236, 6, 6, 0.884); 
+    border-radius: 50%; 
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+}
+.contact-form-container {
+    background-color: #b2b7bd; 
+    padding: 15px;
+    border-radius: 15px; 
+}
+.contact-form-container .form-control {
+    background-color: #ffffff; 
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
